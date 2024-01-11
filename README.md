@@ -1,3 +1,9 @@
+# Expense Tracker
+
+Built with MERN stacks which are MongoDB, React, Express.js, and Node.js
+
+<img width="956" alt="Interface" src="https://github.com/Syafiqakb/expense_tracker/assets/103159542/06941b36-b924-44eb-a3ff-062c4f510814">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
